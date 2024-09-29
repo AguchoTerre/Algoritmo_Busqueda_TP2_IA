@@ -1,4 +1,5 @@
-# Algoritmo_B-squeda_TP2_IA
+# Algoritmo_Busqueda_TP2_IA
+
 Trabajo practica N°2 de Inteligencia Artificial sobre Algoritmos de Búsqueda informada y no informada. 
 
 Se trabajo con el algoritmos de busqueda por anchura y el algoritmo A*.
